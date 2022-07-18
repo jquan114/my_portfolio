@@ -33,7 +33,7 @@ const About = () => {
         <p>
           <strong>Feel free to contact me anytime!< hr /> <br/>
           Phone: 516-532-4646 <br />
-          Email: jquancollins96@gmail</strong>
+          Email: jquancollins96@gmail.com</strong>
         </p>
       </Text>
     </Container>
