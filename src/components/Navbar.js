@@ -64,10 +64,7 @@ const Navbar = ({ isOpen, setIsOpen, theme, setTheme, scroll, location }) => {
               <path id="path993" d="M 30.936333,41.817115 V 118.62371" />
               <path id="path995" d="M 48.190037,41.786977 V 118.59185" />
               <path id="path999" d="M 65.423065,80.097364 V 118.59918" />
-              <path id="path1001" d="M 82.669162,41.889691 V 118.49754" />
-              <path id="path1003" d="m 99.938806,80.1203 v 38.30366" />
-              <path id="path1005" d="M 117.21916,80.071427 V 156.63238" />
-              <path id="path1007" d="M 134.51064,80.047936 V 156.6558" />
+             
             </g>
           </svg>
         </Logo>
