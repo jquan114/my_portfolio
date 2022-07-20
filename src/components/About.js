@@ -15,7 +15,7 @@ const About = () => {
         </p>
         <p>
           Besides studying I enjoy playing the piano, and reading. Im usually busy with side
-          projects and scaling businesses. My favourite languages are Python and Javascript. Currently
+          projects and scaling business. My favourite languages are Python and Javascript. Currently
           I love creating web applications using the PERN stack and Cloud development using AZURE. When I'm not in
           front of a computer, I like to spend time outdoors, do sports, and 
           explore new restaurants.
