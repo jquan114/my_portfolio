@@ -23,7 +23,7 @@ const About = () => {
         <p>
           <a
             class="shadow-underline"
-            href={process.env.PUBLIC_URL + '/cv.pdf'}
+            href="https://docs.google.com/document/d/1fZucwQFJn3cgK3MRZpqmxH4UTia-ZQMlleSDI0uAiSs/edit?usp=sharing"
             target="_blank"
           >
             View CV

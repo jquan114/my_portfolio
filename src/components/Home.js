@@ -74,7 +74,7 @@ const Home = () => {
 const ProfileCard = styled.div`
   height: 8rem;
   display: flex;
-  transition: color 0.5s;
+  transition: color 0.9s;
   color: ${(props) => props.theme.textStart};
 
   @media (max-width: 40rem) {
