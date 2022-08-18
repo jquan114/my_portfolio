@@ -1,6 +1,6 @@
-import React from 'react';
-import styled from 'styled-components';
-import Card from './Card';
+import React from "react";
+import styled from "styled-components";
+import Card from "./Card";
 
 const Projects = () => {
   return (
@@ -10,7 +10,7 @@ const Projects = () => {
       </h1>
       <Grid>
         <Card
-          img={require('../images/profile8.png')}
+          img={require("../images/profile8.png")}
           title="Flip the page"
           description="Use an API for developers to search software engineering books for further studies."
           technologies="Javascript - Node.js - Express.js - Netlify"
@@ -20,7 +20,7 @@ const Projects = () => {
           link_three_text="Github"
         />
         <Card
-          img={require('../images/profile7.png')}
+          img={require("../images/profile7.png")}
           title="React To-Do-List "
           description="My submission for a nice way to organize your day. "
           technologies="Javascript, Netlify, and Bootstrap"
@@ -31,7 +31,7 @@ const Projects = () => {
           link_three_text="Github"
         />
         <Card
-          img={require('../images/profile3.png')}
+          img={require("../images/profile3.png")}
           title="Track Income and Expense"
           description="My personal website that you can start using now"
           technologies="Javascript - React.js -"
@@ -41,8 +41,41 @@ const Projects = () => {
           link_two_text="Website"
           link_three_text="Github"
         />
-     
+        <Card
+          img={require("../images/profile4.png")}
+          title="Monster Rolodex"
+          description="Created and styled components using an API"
+          technologies="Javascript - React.js -"
+          technologies2="styled-components - Netlify"
+          link_two="https://monsterrolodexcom.netlify.app/"
+          link_three="https://github.com/jquan114/monster_rolodex"
+          link_two_text="Website"
+          link_three_text="Github"
+        />
+        <Card
+          img={require("../images/profile5.png")}
+          title="E Commerce Store"
+          description=" Come and See What You Like At My Store"
+          technologies="Javascript - React.js -"
+          technologies2="styled-components - Netlify"
+          link_two="https://crownclothin.netlify.app/"
+          link_three="https://github.com/jquan114/crwn-ecommerce"
+          link_two_text="Website"
+          link_three_text="Github"
+        />
+         <Card
+          img={require("../images/profile9.png")}
+          title="E Commerce Store"
+          description="Group project with ( General Assembly Coding BootCamp ). "
+          technologies="Javascript - React.js - MongoDB - Mongoose"
+          technologies2="styled-components - Netlify"
+          link_two="https://generalstoregs.netlify.app/"
+          link_three="https://github.com/troymathis/generalstore-frontend"
+          link_two_text="Website"
+          link_three_text="Github"
+        />
       </Grid>
+
     </ProjectsContainer>
   );
 };

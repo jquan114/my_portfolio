@@ -304,7 +304,7 @@ const Logo = styled(NavLink)`
   }
   padding: 0.5rem;
 
-  /* .kantdev {
+  /* .jquandev {
     transition: color 0.5s;
     color: ${(props) =>
       props.scroll && props.location
