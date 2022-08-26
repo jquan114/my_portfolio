@@ -12,7 +12,7 @@ const About = () => {
           Hi, I'm <strong>Jquan Collins</strong>. I currently graduated from 
            General Assembly Software Engineering Program in New York City. There
           I specialized in Python, Javascript, along with Cloud Development, Data Science, and Algorithms. 
-          For now Front End Development is my focus.
+          Combining the art of programming with the art of design to deliver web application is my passion.
         </p>
         <p>
           Besides studying I enjoy playing the piano, and reading. Im usually busy with side
