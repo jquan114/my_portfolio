@@ -74,6 +74,17 @@ const Projects = () => {
           link_two_text="Website"
           link_three_text="Github"
         />
+          <Card
+          img={require("../images/profile10.png")}
+          title="Lawn Care Service"
+          description="Frontend Application For My Family Business, Currently Under Construction"
+          technologies="Javascript - React.js -"
+          technologies2="styled-components - Netlify"
+          link_two="https://ravenellgarden.netlify.app/"
+          link_three="https://github.com/jquan114/ravenell_landscape"
+          link_two_text="Website"
+          link_three_text="Github"
+        />
       </Grid>
 
     </ProjectsContainer>
