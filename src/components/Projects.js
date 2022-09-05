@@ -85,6 +85,17 @@ const Projects = () => {
           link_two_text="Website"
           link_three_text="Github"
         />
+          <Card
+          img={require("../images/profile11.png")}
+          title="Synthesizer Collector"
+          description="Add synthesizer you like, check out prices and even schedule a day to pick up after purchase."
+          technologies="Python - Django -"
+          technologies2=" Heroku"
+          link_two="https://synthcreation.herokuapp.com/"
+          link_three="https://github.com/jquan114/synthcollector_django"
+          link_two_text="Website"
+          link_three_text="Github"
+        />
       </Grid>
 
     </ProjectsContainer>
