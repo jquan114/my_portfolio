@@ -10,6 +10,40 @@ const Projects = () => {
       </h1>
       <Grid>
         <Card
+          img={require("../images/profile10.png")}
+          title="Lawn Care Service"
+          description="Frontend Application For My Family Business, Currently Under Construction"
+          technologies="Javascript - React.js -"
+          technologies2="styled-components - Netlify"
+          link_two="https://ravenellgarden.netlify.app/"
+          link_three="https://github.com/jquan114/ravenell_landscape"
+          link_two_text="Website"
+          link_three_text="Github"
+        />
+
+        <Card
+          img={require("../images/profile5.png")}
+          title="E Commerce Store"
+          description=" Come and See What You Like At My Store"
+          technologies="Javascript - React.js -"
+          technologies2="styled-components - Netlify"
+          link_two="https://crownclothin.netlify.app/"
+          link_three="https://github.com/jquan114/crwn-ecommerce"
+          link_two_text="Website"
+          link_three_text="Github"
+        />
+             <Card
+          img={require("../images/profile3.png")}
+          title="Track Income and Expense"
+          description="My personal website that you can start using now, using full (CRUD) functionality"
+          technologies="Javascript - React.js - Express"
+          technologies2="styled-components - Netlify"
+          link_two="https://jquan-money-tracker.herokuapp.com/"
+          link_three="https://github.com/jquan114/Track-Income-Expense"
+          link_two_text="Website"
+          link_three_text="Github"
+        />
+        <Card
           img={require("../images/profile8.png")}
           title="Flip the page"
           description="Use an API for developers to search software engineering books for further studies."
@@ -31,17 +65,6 @@ const Projects = () => {
           link_three_text="Github"
         />
         <Card
-          img={require("../images/profile3.png")}
-          title="Track Income and Expense"
-          description="My personal website that you can start using now"
-          technologies="Javascript - React.js -"
-          technologies2="styled-components - Netlify"
-          link_two="https://jquan-money-tracker.herokuapp.com/"
-          link_three="https://github.com/jquan114/Track-Income-Expense"
-          link_two_text="Website"
-          link_three_text="Github"
-        />
-        <Card
           img={require("../images/profile4.png")}
           title="Monster Rolodex"
           description="Created and styled components using an API"
@@ -52,18 +75,8 @@ const Projects = () => {
           link_two_text="Website"
           link_three_text="Github"
         />
+
         <Card
-          img={require("../images/profile5.png")}
-          title="E Commerce Store"
-          description=" Come and See What You Like At My Store"
-          technologies="Javascript - React.js -"
-          technologies2="styled-components - Netlify"
-          link_two="https://crownclothin.netlify.app/"
-          link_three="https://github.com/jquan114/crwn-ecommerce"
-          link_two_text="Website"
-          link_three_text="Github"
-        />
-         <Card
           img={require("../images/profile9.png")}
           title="E Commerce Store"
           description="Group project with ( General Assembly Coding BootCamp ). "
@@ -74,18 +87,8 @@ const Projects = () => {
           link_two_text="Website"
           link_three_text="Github"
         />
-          <Card
-          img={require("../images/profile10.png")}
-          title="Lawn Care Service"
-          description="Frontend Application For My Family Business, Currently Under Construction"
-          technologies="Javascript - React.js -"
-          technologies2="styled-components - Netlify"
-          link_two="https://ravenellgarden.netlify.app/"
-          link_three="https://github.com/jquan114/ravenell_landscape"
-          link_two_text="Website"
-          link_three_text="Github"
-        />
-          <Card
+
+        <Card
           img={require("../images/profile11.png")}
           title="Synthesizer Collector"
           description="Add synthesizer you like, check out prices and even schedule a day to pick up after purchase."
@@ -97,7 +100,6 @@ const Projects = () => {
           link_three_text="Github"
         />
       </Grid>
-
     </ProjectsContainer>
   );
 };
