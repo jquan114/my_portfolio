@@ -24,7 +24,7 @@ const About = () => {
         <p>
           <a
             class="shadow-underline"
-            href="https://docs.google.com/document/d/1fZucwQFJn3cgK3MRZpqmxH4UTia-ZQMlleSDI0uAiSs/edit?usp=sharing"
+            href="https://docs.google.com/document/d/1TlcEK3iu88Rr33ztxksoHLlfQ0xVN-EYfJ54rBw9mGk/edit?pli=1"
             target="_blank"
           >
             View CV
