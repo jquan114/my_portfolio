@@ -24,7 +24,7 @@ const Home = () => {
           </div>
         </ProfileCard>
         <div className="short">
-          A Full Stack Software Developer and Entrepreneur that enjoys Web
+          A Front End Engineener and Entrepreneur that enjoys Web
           Development and Design.
         </div>
 
