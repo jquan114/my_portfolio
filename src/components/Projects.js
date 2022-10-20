@@ -10,6 +10,29 @@ const Projects = () => {
       </h1>
       <Grid>
         <Card
+          img={require("../images/profile5.png")}
+          title="E Commerce Store"
+          description=" Come and See What You Like At My Store"
+          technologies="Javascript - React.js -"
+          technologies2="styled-components - Netlify"
+          link_two="https://crownclothin.netlify.app/"
+          link_three="https://github.com/jquan114/crwn-ecommerce"
+          link_two_text="Website"
+          link_three_text="Github"
+        />
+          <Card
+          img={require("../images/profile7.png")}
+          title="React To-Do-List "
+          description="My submission for a nice way to organize your day. "
+          technologies="Javascript, Netlify, and Bootstrap"
+          link_two="https://makeyourlistnow.netlify.app/"
+          link_three="https://github.com/jquan114/react_to_do_list"
+          link_one_text="Devpost"
+          link_two_text="Website"
+          link_three_text="Github"
+        />
+
+        <Card
           img={require("../images/profile10.png")}
           title="Lawn Care Service"
           description="Frontend Application For My Family Business, Currently Under Construction"
@@ -21,18 +44,8 @@ const Projects = () => {
           link_three_text="Github"
         />
 
+
         <Card
-          img={require("../images/profile5.png")}
-          title="E Commerce Store"
-          description=" Come and See What You Like At My Store"
-          technologies="Javascript - React.js -"
-          technologies2="styled-components - Netlify"
-          link_two="https://crownclothin.netlify.app/"
-          link_three="https://github.com/jquan114/crwn-ecommerce"
-          link_two_text="Website"
-          link_three_text="Github"
-        />
-             <Card
           img={require("../images/profile3.png")}
           title="Track Income and Expense"
           description="My personal website that you can start using now, using full (CRUD) functionality"
@@ -43,27 +56,7 @@ const Projects = () => {
           link_two_text="Website"
           link_three_text="Github"
         />
-        <Card
-          img={require("../images/profile8.png")}
-          title="Flip the page"
-          description="Use an API for developers to search software engineering books for further studies."
-          technologies="Javascript - Node.js - Express.js - Netlify"
-          link_two="https://developerbooks.netlify.app/"
-          link_three="https://github.com/jquan114/jquan-project-1"
-          link_two_text="Website"
-          link_three_text="Github"
-        />
-        <Card
-          img={require("../images/profile7.png")}
-          title="React To-Do-List "
-          description="My submission for a nice way to organize your day. "
-          technologies="Javascript, Netlify, and Bootstrap"
-          link_two="https://makeyourlistnow.netlify.app/"
-          link_three="https://github.com/jquan114/react_to_do_list"
-          link_one_text="Devpost"
-          link_two_text="Website"
-          link_three_text="Github"
-        />
+
         <Card
           img={require("../images/profile4.png")}
           title="Monster Rolodex"
@@ -96,6 +89,16 @@ const Projects = () => {
           technologies2=" Heroku"
           link_two="https://synthcreation.herokuapp.com/"
           link_three="https://github.com/jquan114/synthcollector_django"
+          link_two_text="Website"
+          link_three_text="Github"
+        />
+        <Card
+          img={require("../images/profile8.png")}
+          title="Flip the page"
+          description="Use an API for developers to search software engineering books for further studies."
+          technologies="Javascript - Node.js - Express.js - Netlify"
+          link_two="https://developerbooks.netlify.app/"
+          link_three="https://github.com/jquan114/jquan-project-1"
           link_two_text="Website"
           link_three_text="Github"
         />
