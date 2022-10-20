@@ -19,7 +19,7 @@ const About = () => {
           projects and scaling businesses. 
           As a Front end developer I focus on react Javascript, and problem solving.
           Ienjoy building web applications using the MERN stack with React.js Eco System. When I'm not in
-          front of my computer, I like to spend time outdoors, and reading self development books.
+          front of my computer I like to spend time outdoors, and reading self development books.
         </p>
         <p>
           <a
