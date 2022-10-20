@@ -11,15 +11,15 @@ const About = () => {
         <p>
           Hi, I'm <strong>Jquan Collins</strong>. I currently graduated from 
            General Assembly Software Engineering Program in New York City. There
-          I specialized in Python, Javascript, along with Cloud Development, Data Science, and Algorithms. 
-          Combining the art of programming with the art of design to deliver web application is my passion.
+          I specialized in React Javascript and Python. We then touched Data Structures and Algorithms. 
+          Combining the art of programming with the art of design to deliver web application is my true passion.
         </p>
         <p>
           Besides studying I enjoy playing the piano, and reading. Im usually busy with side
-          projects and scaling business. My favourite languages are Python and Javascript. Currently
-          I love creating web applications using the PERN stack and Cloud development using AZURE. When I'm not in
-          front of a computer, I like to spend time outdoors, do sports, and 
-          explore new restaurants.
+          projects and scaling businesses. 
+          As a Front end developer I focus on react Javascript, and problem solving.
+          Ienjoy building web applications using the MERN stack with React.js Eco System. When I'm not in
+          front of my computer, I like to spend time outdoors, and reading self development books.
         </p>
         <p>
           <a
