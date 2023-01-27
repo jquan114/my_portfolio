@@ -11,7 +11,7 @@ const About = () => {
         <p>
           Hi, I'm <strong>Jquan Collins</strong>. I currently graduated from 
            General Assembly Software Engineering Program in New York City. There
-          I specialized in React Javascript, Python, Data Structures/ Algorithms, AND Cloud Computing with Azuregit . 
+          I specialized in React Javascript, Python, Data Structures/ Algorithms, and Cloud Computing with Azure . 
           Combining the art of programming with the art of design to deliver web application is my true passion.
         </p>
         <p>
