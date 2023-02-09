@@ -1,5 +1,6 @@
 import React from "react";
 import styled from "styled-components";
+import { FaEnvelope } from "react-icons/fa";
 
 const About = () => {
   return (
@@ -31,12 +32,18 @@ const About = () => {
         </p>
 
         <p>
-          <strong>
-            Feel free to contact me anytime!
-            <hr /> <br />
-            <br />
-            Email: jquancollins96@gmail.com
-          </strong>
+          <div className="iconcontainer">
+            <a
+              className="shadow-underline"
+              href="mailto:jquancollins96@gmail.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              title="Look through my Github profile"
+            >
+              <FaEnvelope size="" className="icon" />
+              <span className="icontext">Email</span>
+            </a>
+          </div>
         </p>
       </Text>
     </Container>
