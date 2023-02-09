@@ -1,5 +1,5 @@
-import React from 'react';
-import styled from 'styled-components';
+import React from "react";
+import styled from "styled-components";
 
 const About = () => {
   return (
@@ -9,17 +9,20 @@ const About = () => {
       </h1>
       <Text>
         <p>
-          Hi, I'm <strong>Jquan Collins</strong>. I currently graduated from 
-           General Assembly Software Engineering Program in New York City. There
-          I specialized in React Javascript, Python, Data Structures/ Algorithms, and Cloud Computing with Azure . 
-          Combining the art of programming with the art of design to deliver web application is my true passion.
+          Hi, I'm <strong>Jquan Collins</strong>. I'm a Software Engineer with a
+          passion for writing scalable solutions in JavaScript, and SQL. With
+          seven years of experience in marketing and client service, I have a
+          strong foundation in communication, an obsession for detail, and a
+          knack for inspiring cross-functional teams. I am passionate about
+          creating tangible solutions that make an impact on those around me,
+          and am looking for opportunities to build and shape digital tools that
+          better lives.
         </p>
         <p>
-          Besides studying I enjoy playing the piano, and reading. Im usually busy with side
-          projects and scaling businesses. 
-          As a Front end developer I focus on react Javascript, and problem solving.
-          I enjoy building web applications using the MERN stack with React.js Eco System. When I'm not in
-          front of my computer I like to spend time outdoors, and reading self development books.
+          A beautiful blend of developer and marketer, I naturally get excited
+          and passionate about all things in leadership, tech, and collaborative
+          work. I specialize in full-stack Javascript technologies to build
+          complete web applications with API systems
         </p>
         <p>
           <a
@@ -32,9 +35,12 @@ const About = () => {
         </p>
 
         <p>
-          <strong>Feel free to contact me anytime!< hr /> <br/>
-         <br />
-          Email: jquancollins96@gmail.com</strong>
+          <strong>
+            Feel free to contact me anytime!
+            <hr /> <br />
+            <br />
+            Email: jquancollins96@gmail.com
+          </strong>
         </p>
       </Text>
     </Container>
