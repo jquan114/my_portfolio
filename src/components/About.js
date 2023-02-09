@@ -12,17 +12,13 @@ const About = () => {
           Hi, I'm <strong>Jquan Collins</strong>. I'm a Software Engineer with a
           passion for writing scalable solutions in JavaScript, and SQL. With
           seven years of experience in marketing and client service, I have a
-          strong foundation in communication, an obsession for detail, and a
-          knack for inspiring cross-functional teams. I am passionate about
-          creating tangible solutions that make an impact on those around me,
-          and am looking for opportunities to build and shape digital tools that
-          better lives.
+          strong foundation in communication.I am passionate about creating
+          tangible solutions that make an impact on those around me.
         </p>
         <p>
-          A beautiful blend of developer and marketer, I naturally get excited
-          and passionate about all things in leadership, tech, and collaborative
-          work. I specialize in full-stack Javascript technologies to build
-          complete web applications with API systems
+          A beautiful blend of code and marketing is key to my development. .I
+          specialize in full-stack Javascript technologies to build complete web
+          applications with API systems.
         </p>
         <p>
           <a
