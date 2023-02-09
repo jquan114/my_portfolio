@@ -16,7 +16,7 @@ const About = () => {
           tangible solutions that make an impact on those around me.
         </p>
         <p>
-          A beautiful blend of code and marketing is key to my development. .I
+          A beautiful blend of code and marketing is key to my development.I
           specialize in full-stack Javascript technologies to build complete web
           applications with API systems.
         </p>
