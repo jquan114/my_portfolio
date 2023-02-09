@@ -30,7 +30,7 @@ const About = () => {
             href="https://docs.google.com/document/d/1TlcEK3iu88Rr33ztxksoHLlfQ0xVN-EYfJ54rBw9mGk/edit?pli=1"
             target="_blank"
           >
-            View CV
+            View Resume
           </a>
         </p>
 
