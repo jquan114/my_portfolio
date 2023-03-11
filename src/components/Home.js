@@ -24,8 +24,7 @@ const Home = () => {
           </div>
         </ProfileCard>
         <div className="short">
-          A Fullstack Software Engineer/Entrepreneur that enjoys Web
-          Development and Problem Solving.
+          A Fullstack Software Engineer.
         </div>
 
         <Social>
