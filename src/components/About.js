@@ -10,7 +10,7 @@ const About = () => {
       </h1>
       <Text>
         <p>
-          Hi, I'm <strong>Jquan Collins</strong>. I'm a Software Engineer with a
+          Hi, I'm <strong>Jquan Collinss</strong>. I'm a Software Engineer with a
           passion for writing scalable solutions in JavaScript, and SQL. With
           seven years of experience in marketing and client service, I have a
           strong foundation in communication.I am passionate about creating
