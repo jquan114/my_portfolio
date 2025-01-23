@@ -10,26 +10,27 @@ const About = () => {
       </h1>
       <Text>
         <p>
-        {/* Hi, I'm <strong>Jquan Collins</strong>. I currently graduated from
+          {/* Hi, I'm <strong>Jquan Collins</strong>. I currently graduated from
           General Assembly Software Engineering Program in New York City. There
           I'm specialized in Java, Python and Javascript. For personal
           development I self study and build real world projects. */}
-
-          I'm a Software Engineer with a passion for writing scalable solutions in JavaScript,Java, Python,
-          and SQL. With seven years of experience in marketing and client service, 
-          I have a strong foundation in communication. I am passionate about creating 
-          tangible solutions that impact those around me.
+          I’m a Software Engineer with 7+ years of experience building scalable
+          solutions using JavaScript, Python, and SQL. My unique background in
+          marketing and client service, combined with my technical expertise,
+          enables me to bridge the gap between business and technology. I excel
+          at creating impactful, user-focused solutions that drive results and
+          make a tangible difference
         </p>
         <p>
-  
-           Besides studying I enjoy playing the piano, and reading books.
-          
+          Besides studying I enjoy playing the piano, and reading books about
+          the financial markets.
         </p>
         <p>
           <a
             class="shadow-underline"
             href="https://docs.google.com/document/d/18EhpoDB37dEm3r79jX3Svdy22ZETlFjM2mOGkfm9Me8/edit"
             target="_blank"
+            rel="noreferrer"
           >
             View Resume
           </a>
