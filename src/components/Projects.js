@@ -10,6 +10,17 @@ const Projects = () => {
       </h1>
       <Grid>
         <Card
+          img={require("../images/profile12.png")}
+          title="Christian United"
+          description=" Join the movement to support Christians around in the World"
+          technologies="Typescript - Next15.js, SQL,Shadcn, MongoDB -"
+          technologies2="Vercel to Deploy"
+          link_two="https://christianunited.vercel.app/"
+          link_three="https://github.com/jquan114/jsmasterypro_devflow"
+          link_two_text="Website"
+          link_three_text="Github"
+        />
+        <Card
           img={require("../images/profile5.png")}
           title="E Commerce Store"
           description=" Come and See What You Like At My Store"
@@ -20,7 +31,7 @@ const Projects = () => {
           link_two_text="Website"
           link_three_text="Github"
         />
-          <Card
+        <Card
           img={require("../images/profile7.png")}
           title="React To-Do-List "
           description="My submission for a nice way to organize your day. "
@@ -43,7 +54,6 @@ const Projects = () => {
           link_two_text="Website"
           link_three_text="Github"
         />
-
 
         <Card
           img={require("../images/profile3.png")}
